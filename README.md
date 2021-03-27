@@ -1,6 +1,6 @@
 ## Salary Conversion Endpoint
 
-Salary conversion endpoint a simple REST API provider built using Express JS. It only provides one endpoint for GET request, which is `user/:id`. This endpoint is created for the following requirements:
+Salary conversion endpoint is a simple REST API provider built using Express JS. It only provides one endpoint for GET request, which is `user/:id`. This endpoint is created for the following requirements:
 
 - It can fetch data from http://jsonplaceholder.typicode.com/users
 - It can join the fetched data with salary data from JSON file by using id
