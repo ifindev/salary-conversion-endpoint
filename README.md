@@ -15,7 +15,7 @@ To use and test this program on your local machine, do these steps:
 - Get API Key for salary conversion from https://free.currencyconverterapi.com/
 - Clone this repository.
 - Go to the main folder, then run `npm install` for installing all the dependencies.
-- Create a new `.env` file on root directory. Write `API_KEY = your-api-key"`. Save it.
+- Create a new `.env` file on root directory. Write `API_KEY = your-api-key`. Save it.
 - To run locally, use `node main.js`. The express server will start on port `3000`.
 - Open up Postman, set request to GET. Then open `localhost:3000/user/:id` where `:id` is an id number range from 1 to 10.
 
